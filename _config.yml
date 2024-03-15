@@ -9,11 +9,11 @@
 locale                   : "en-US"
 title                    : " "
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
-url                      : https://Sizhe-Chen.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "/" #"/sizhe.chen.homepage" # the subpath of your site, e.g. "/blog"
-repository               : "/" #"Sizhe-Chen/sizhe.chen.homepage"
+name                     : &name "Emily Yeo"
+description              : &description "Hello. I'm Emily. A second year PhD student in Boulder Colordao, but originally from the gorgeous coastline of Salt Rock, South Africa."
+url                      : https://emily-yeo.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl                  : "/emily-yeo.homepage" #"/sizhe.chen.homepage" # the subpath of your site, e.g. "/blog"
+repository               : "emilynyeo/emily-yeo.homepage" #"Sizhe-Chen/sizhe.chen.homepage"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
