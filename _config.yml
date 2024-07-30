@@ -12,8 +12,8 @@ title_separator          : "-"
 name                     : &name "Emily Yeo"
 description              : &description "Hello. I'm Emily. A second year PhD student in Boulder Colordao, but originally from the gorgeous coastline of Salt Rock, South Africa."
 url                      : https://emilynyeo.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "/emilynyeo.homepage" #"/sizhe.chen.homepage" # the subpath of your site, e.g. "/blog"
-repository               : "emilynyeo/emilynyeo.homepage" #"Sizhe-Chen/sizhe.chen.homepage"
+baseurl                  : "/" #"/sizhe.chen.homepage" # the subpath of your site, e.g. "/blog"
+repository               : "/" #"Sizhe-Chen/sizhe.chen.homepage"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : emilynyeo
 facebook:
   username               :
   app_id                 :
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Emily Yeo"
   avatar           : "profile.jpg"
-  bio              : "Ph.D. Student, UC Boulder"
-  #location         : "Boulder, CO, USA"
+  bio              : "Ph.D. Student, University of Colorado Boulder"
+  location         : "Boulder, CO, USA"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=lp5ujPsAAAAJ"
   email            : "emily.yeo@colorado.edu"
@@ -98,7 +98,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  #github           : "emilynyeo"
+  github           : "emilynyeo"
   google_plus      :
   keybase          :
   #instagram        : _sizhe_chen_
@@ -106,8 +106,6 @@ author:
   lastfm           :
   linkedin         : 
   pinterest        :
-  soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
   vine             :
