@@ -11,6 +11,7 @@ redirect_from:
 Biography
 ------
 Hi! 
+
 This is a work in progress and will be updated soon 
 
 
