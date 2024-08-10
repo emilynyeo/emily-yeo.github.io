@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Emily Yeo"
-  avatar           : "files/head_shot1.jpeg"
+  avatar           : "head_shot1.jpeg"
   bio              : "Ph.D. Student, University of Colorado Boulder"
   location         : "Boulder, CO, USA"
   employer         :
@@ -98,7 +98,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "emilynyeo"
+  github           : https://github.com/emilynyeo
   google_plus      :
   keybase          :
   instagram        : emilynyeo
@@ -113,9 +113,9 @@ author:
   xing             :
   youtube          :
   wikipedia        :
-  twitter          : 
+  twitter          : Emily_N_Yeo
   thesis           : # https://drive.google.com/file/d/1ziktI_byIkMB2dQvFF30QhhI53rvM-NX/view?usp=sharing
-  orcid            : # "https://orcid.org/0000-0003-3274-6926"
+  orcid            :  "https://orcid.org/0000-0003-2113-0077"
 
 # Reading Files
 include:
