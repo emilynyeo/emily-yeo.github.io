@@ -29,7 +29,12 @@ comments:
   facebook:
     appid                :
     num_posts            : # 5 (default)
-    colorscheme          : # "light" (default), "dark"
+    colorscheme          : "ocean"
+# - "ocean"      # Blue and teal tones
+# - "forest"     # Green and brown earthy tones
+# - "sunset"     # Warm oranges and purples
+# - "monochrome" # Grayscale with accent color
+# - "vibrant"    # Bold, high-contrast colors
 staticman:
   allowedFields          : ['name', 'email', 'url', 'message']
   branch                 : "gh-pages" # "master", "gh-pages"
