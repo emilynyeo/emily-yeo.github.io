@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Emily Yeo"
-  avatar           : "head_shot1.jpeg"
+  avatar           : "files/head_shot1.jpeg"
   bio              : "Ph.D. Student, University of Colorado Boulder"
   location         : "Boulder, CO, USA"
   employer         :
@@ -101,10 +101,10 @@ author:
   github           : "emilynyeo"
   google_plus      :
   keybase          :
-  #instagram        : _sizhe_chen_
+  instagram        : emilynyeo
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : 
+  linkedin         : www.linkedin.com/in/emily-nadine-yeo
   pinterest        :
   steam            :
   tumblr           :
