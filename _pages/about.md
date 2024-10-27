@@ -36,4 +36,5 @@ Favorite quotes
 ------
 
 ![alt text](this_note_says.jpeg)
+
 At this point this quote is deeply planted in my psychy, but started out as a joke between my dad and I. 
