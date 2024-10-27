@@ -180,7 +180,7 @@ kramdown:
 
 # Collections
 collections:
-  teaching:
+  gallery:
     output: true
     permalink: /:collection/:path/
   publications:
