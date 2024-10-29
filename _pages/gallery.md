@@ -27,15 +27,19 @@ Alaska Trips
 <img src="g_pics/Alaska/IMG_6530.jpeg" width="20%" />
 <img src="g_pics/Alaska/IMG_6537.jpeg" width="20%" />
 <img src="g_pics/Alaska/IMG_6549.jpeg" width="20%" />
-<img src="g_pics/Alaska/IMG_6557.jpeg" width="20%" />
+<img src="g_pics/Alaska/IMG_6557.JPG" width="20%" />
 <img src="g_pics/Alaska/IMG_6581.jpeg" width="20%" />
-<img src="g_pics/Alaska/IMG_6669.jpeg" width="20%" />
+<img src="g_pics/Alaska/IMG_6669.JPG" width="20%" />
 <img src="g_pics/Alaska/IMG_7285.jpeg" width="20%" />
 <img src="g_pics/Alaska/IMG_7478.jpeg" width="20%" />
 <img src="g_pics/Alaska/IMG_7494.jpeg" width="20%" />
-<img src="g_pics/Alaska/8FA2190C-4ED6-4A85-B7B6-1A7EC348224A_1_105_c.jpeg" width="20%" />
 
 Birthday in Boulder 
 ======
+<img src="g_pics/B_day/me_me.jpeg" width="20%" />
+<img src="g_pics/B_day/peeps.jpeg" width="20%" />
+<img src="g_pics/B_day/elise_liv.jpeg" width="20%" />
+<img src="g_pics/B_day/cake.jpeg" width="20%" />
 
-![alt text](g_pics/8FA2190C-4ED6-4A85-B7B6-1A7EC348224A_1_105_c.jpeg)
+
+
