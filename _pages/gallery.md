@@ -68,4 +68,3 @@ Boston Sept 2020 - May 2022
 <img src="../_gallery/g_pics/Boston/sunrise.jpeg" width="20%" />
 <img src="../_gallery/g_pics/Boston/swim.jpg" width="20%" />
 <img src="../_gallery/g_pics/Boston/washington.jpeg" width="20%" />
-
