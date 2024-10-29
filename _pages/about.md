@@ -35,5 +35,6 @@ Selected Publications
 Favorite quotes
 ------
 
-<img src="this_note_says.jpeg" width="55%" />
+![alt text](this_note_says.jpeg){:width="50%"}
+
 This quote started out as a joke between my dad and I, and is now somewhat of a mantra. 

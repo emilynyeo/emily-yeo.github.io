@@ -34,9 +34,9 @@ Alaska Trips
 <img src="g_pics/Alaska/IMG_7478.jpeg" width="20%" />
 <img src="g_pics/Alaska/IMG_7494.jpeg" width="20%" />
 
-Birthday in Boulder 
+Birthday in Boulder April 2024
 ======
-<img src="g_pics/B_bday/me_me.jpeg" width="20%" />
+<img src="g_pics/B_bday/me_m.jpeg" width="20%" />
 <img src="g_pics/B_bday/peeps.jpg" width="20%" />
 <img src="g_pics/B_bday/elise_liv.jpg" width="20%" />
 <img src="g_pics/B_bday/cake.jpeg" width="20%" />
@@ -53,17 +53,23 @@ Boston Sept 2020 - May 2022
 <img src="g_pics/Boston/pond.JPG" width="20%" />
 <img src="g_pics/Boston/run1.JPG" width="20%" />
 <img src="g_pics/Boston/redbike.JPG" width="20%" />
+
 Our roommate Queen Emmy (Carley's cat):
+
 <img src="g_pics/Boston/emmy.jpeg" width="20%" />
 <img src="g_pics/Boston/emmy2.jpeg" width="20%" />
 <img src="g_pics/Boston/emmy3.jpg" width="20%" />
 <img src="g_pics/Boston/spatula.jpeg" width="20%" />
+
 A whole new level of WINTER for me: 
+
 <img src="g_pics/Boston/heating.jpg" width="20%" />
 <img src="g_pics/Boston/ice.jpeg" width="20%" />
 <img src="g_pics/Boston/rename.jpeg" width="20%" />
 <img src="g_pics/Boston/roof.jpeg" width="20%" />
+
 Running, hiking and open water swimming: 
+
 <img src="g_pics/Boston/spikes.jpeg" width="20%" />
 <img src="g_pics/Boston/sunrise.jpeg" width="20%" />
 <img src="g_pics/Boston/swim.jpg" width="20%" />
