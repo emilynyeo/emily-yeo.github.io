@@ -7,12 +7,23 @@ tags:
   
 ---
 
+<style>
+  .zoom {
+    transition: transform 0.3s ease;
+    width: 20%;
+  }
+
+  .zoom:hover {
+    transform: scale(1.5);
+  }
+</style>
+
 Alaska Trips 
 ======
-<img src="g_pics/Alaska/7B02737E-91CA-4914-B81F-171007385267.jpg" width="20%" />
-<img src="g_pics/Alaska/8f7d68e8-d8b7-4631-9992-579e445e8a0f.jpg" width="20%" />
-<img src="g_pics/Alaska/850F028D-9423-4FCE-9634-55BA2A051949.jpg" width="20%" />
-<img src="g_pics/Alaska/A4B22891-7AAC-4183-83DA-005CC1620A69.jpg" width="20%" />
+<img src="g_pics/Alaska/7B02737E-91CA-4914-B81F-171007385267.jpg" width="20%" class="zoom" />
+<img src="g_pics/Alaska/8f7d68e8-d8b7-4631-9992-579e445e8a0f.jpg" width="20%" class="zoom" />
+<img src="g_pics/Alaska/850F028D-9423-4FCE-9634-55BA2A051949.jpg" width="20%" class="zoom" />
+<img src="g_pics/Alaska/A4B22891-7AAC-4183-83DA-005CC1620A69.jpg" width="20%" class="zoom" />
 <img src="g_pics/Alaska/ABEF48BE-F36A-44EA-A6D3-5762395E1810.jpg" width="20%" />
 <img src="g_pics/Alaska/D09AC98E-EA0D-467A-B3FE-1A9B0CBADFDD.jpg" width="20%" />
 <img src="g_pics/Alaska/IMG_0859.jpeg" width="20%" />
