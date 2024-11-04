@@ -5,12 +5,11 @@ main:
   - title: "Updates"
     url: /year-archive/
 
-  - title: "Gallery"
-    url: /gallery/
-
   - title: "Publications"
     url: /publications/ 
 
   - title: "Projects"
     url: /projects/
-        
+    
+  - title: "Gallery"
+    url: /gallery/
